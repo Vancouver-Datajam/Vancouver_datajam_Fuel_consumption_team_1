@@ -1,14 +1,16 @@
-# Vancouver Datajam 2021 Project template 
-
-This repository contains a Python project template.
+# Vancouver Datajam 2023 Project template 
 
 ## Project title
 
+Fuel Consumption
+
 ## Project statement
+
+We state that this is our statement
 
 ## Project team members
 
-Team lead:
+Team lead: Ahmed
 
 Mentor:
 
@@ -18,9 +20,9 @@ Scripting:
 
 Modelling: 
 
-Sanity checking: 
+Sanity checking:
 
-## Vancouver Datajam 2021 Schedule:
+## Vancouver Datajam 2023 Schedule:
 
 ### Main page: https://vancouverdatajam.ca/
 #### Event format: 100% online
