@@ -22,6 +22,10 @@ Modelling:
 
 Sanity checking:
 
+## Tableau Workbook:
+
+### [Fuel Consumption](https://public.tableau.com/app/profile/ahmed.khan1711/viz/FuelConsumption_16951143168980/FerrariFuelConsumptionOvertheYearsAcrossAllModels)
+
 ## Vancouver Datajam 2023 Schedule:
 
 ### Main page: https://vancouverdatajam.ca/
